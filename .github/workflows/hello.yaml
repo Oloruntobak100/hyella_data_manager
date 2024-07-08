@@ -13,6 +13,6 @@ jobs:
 
     steps:
       - name: Hello Step
-      - run: echo "Hello World"
+        run: echo "Hello World"
 
 

@@ -110,11 +110,11 @@
         </dependency>
 
         <!-- Common module for shared components -->
-<!--        <dependency>-->
-<!--            <groupId>com.hyella.hyella-payment-service</groupId>-->
-<!--            <artifactId>common</artifactId>-->
-<!--            <version>0.0.1-SNAPSHOT</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>com.hyella.hyella-payment-service</groupId>
+            <artifactId>common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 
         <!-- Springfox for Swagger documentation -->
         <dependency>
